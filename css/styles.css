@@ -52,10 +52,10 @@
   }
   .nav-tab:hover{color:#fff;background:rgba(255,255,255,0.06);}
   .nav-tab.is-data{
-    color:var(--amber-400);
-    border:1px solid rgba(228,174,69,0.45);
+    color:#e4453f;
+    border:1px solid rgba(228,69,63,0.45);
   }
-  .nav-tab.is-data:hover{background:var(--amber-400);color:var(--navy-950);}
+  .nav-tab.is-data:hover{background:#e4453f;color:var(--navy-950);}
   .nav-tab.is-free{
     color:var(--teal-500);
     border:1px solid rgba(18,168,131,0.45);
