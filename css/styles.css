@@ -57,16 +57,16 @@
   }
   .nav-tab.is-data:hover{background:#e4453f;color:var(--navy-950);}
   .nav-tab.is-free{
-    color:var(--teal-500);
-    border:1px solid rgba(18,168,131,0.45);
+    color:#e4453f;
+    border:1px solid rgba(228,69,63,0.45);
     display:inline-flex;align-items:center;gap:7px;
   }
   .nav-tab.is-free span{
-    background:var(--teal-500);color:#fff;font-size:10px;font-weight:800;
+    background:#e4453f;color:#fff;font-size:10px;font-weight:800;
     letter-spacing:.04em;padding:2px 7px;border-radius:100px;
   }
-  .nav-tab.is-free:hover{background:var(--teal-500);color:#fff;}
-  .nav-tab.is-free:hover span{background:#fff;color:var(--teal-600);}
+  .nav-tab.is-free:hover{background:#e4453f;color:#fff;}
+  .nav-tab.is-free:hover span{background:#fff;color:#e4453f;}
   .nav-tab-group{display:inline-flex;align-items:center;gap:2px;}
   .nav-login-btn{
     width:24px;height:24px;border-radius:50%;
